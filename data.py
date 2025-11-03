@@ -4,18 +4,20 @@ def demo_data():
         'id': 1,
         'name': 'J.K',
         'surname': 'Rowling',
-        'book': 'Goblet of Fire'
+        'author_id': 1,
+
     },
     {
         'id': 2,
         'name': 'Andrzej',
         'surname': 'Sapkowski',
-        'book': 'the Witcher: The Lesser Evil'
+        'author_id': 2
     },
     {
         'id': 3,
         'name': 'Robert',
         'surname': 'Kirkman',
-        'book': 'Invincible Volume 1'
+        'author_id': 3,
+
     }
 ]
